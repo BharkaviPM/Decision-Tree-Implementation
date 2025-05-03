@@ -79,7 +79,8 @@ The **Iris dataset** is a well-known dataset included in scikit-learn. It contai
 ---
 ![Image](https://github.com/user-attachments/assets/7713ad4d-0c71-4f5d-842c-c83267f6f3a6)
 ---
-
+![Image](https://github.com/user-attachments/assets/94aa463c-1b4e-4255-b84f-dcf9556918f0)
+---
 
 This project demonstrates a complete pipeline for implementing a **Decision Tree classifier** using **scikit-learn**. The use of the **Iris dataset** and **Jupyter Notebook** ensures that the process is transparent, reproducible, and easy to follow. This serves as an excellent introduction to machine learning classification techniques and lays the groundwork for more complex projects in the field[1][3][5].
 

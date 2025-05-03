@@ -7,8 +7,7 @@
 **INTERN ID:** CT04DK897  
 **DOMAIN:** MACHINE LEARNING  
 **DURATION:** 4 WEEKS  (30th APR - 30th MAY)  
-**MENTOR:** NEELA SANTHOSH  
-**Current date:** Saturday, May 03, 2025, 5:45 PM IST
+**MENTOR:** NEELA SANTHOSH 
 
 ---
 
@@ -20,14 +19,13 @@ This repository contains the implementation and visualization of a **Decision Tr
 
 ## **Motivation**
 
-The motivation behind this project is to gain hands-on experience with one of the most interpretable machine learning algorithms-**Decision Trees**. By working with the Iris dataset, the project provides a clear and educational example of how to approach classification problems, visualize model decisions, and evaluate performance. This project also serves as a foundational step for more advanced machine learning tasks and helps in understanding the importance of model interpretability and workflow documentation[1][3][5].
+The motivation behind this project is to gain hands-on experience with one of the most interpretable machine learning algorithms-**Decision Trees**. By working with the Iris dataset, the project provides a clear and educational example of how to approach classification problems, visualize model decisions, and evaluate performance. This project also serves as a foundational step for more advanced machine learning tasks and helps in understanding the importance of model interpretability and workflow documentation.
 
 ---
 
 ## **Tools and Technologies**
 
 - **Python:** Programming language used for the entire implementation.
-- **Jupyter Notebook:** Interactive platform for code, visualization, and documentation.
 - **Pandas:** Data manipulation and analysis.
 - **scikit-learn:** Machine learning library for building and evaluating the Decision Tree model.
 - **Matplotlib:** Visualization library for plotting the Decision Tree.
@@ -76,14 +74,14 @@ The **Iris dataset** is a well-known dataset included in scikit-learn. It contai
 ---
 
 ## **Conclusion**
+
+This project demonstrates a complete pipeline for implementing a **Decision Tree classifier** using **scikit-learn**. The use of the **Iris dataset** and **Jupyter Notebook** ensures that the process is transparent, reproducible, and easy to follow. This serves as an excellent introduction to machine learning classification techniques and lays the groundwork for more complex projects in the field.
+
+---
+# **Output**
 ---
 ![Image](https://github.com/user-attachments/assets/7713ad4d-0c71-4f5d-842c-c83267f6f3a6)
 ---
 ![Image](https://github.com/user-attachments/assets/94aa463c-1b4e-4255-b84f-dcf9556918f0)
 ---
-
-This project demonstrates a complete pipeline for implementing a **Decision Tree classifier** using **scikit-learn**. The use of the **Iris dataset** and **Jupyter Notebook** ensures that the process is transparent, reproducible, and easy to follow. This serves as an excellent introduction to machine learning classification techniques and lays the groundwork for more complex projects in the field[1][3][5].
-
----
-# **Output**
 
